@@ -2,4 +2,4 @@
 this is certainly not my first repo
 ## dit is een kop
 chikachika
-![picture of perfection](img/1680800694302.jfif)
+![picture of perfection](1680800694302.jfif)
